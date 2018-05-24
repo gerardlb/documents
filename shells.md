@@ -82,7 +82,8 @@ call eax
 ````
 *If you are using a 64bit binary you can use `rax` register.*
 
-If you [Assemble] (https://www.google.com) de code you'll get the following string:
+If you Assemble  de code you'll get the following string:
+*(Online Assembler: https://defuse.ca/online-x86-assembler.htm)*
 
 ```
 
