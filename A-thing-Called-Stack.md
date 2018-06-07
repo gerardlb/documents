@@ -17,7 +17,7 @@ foo:
 
 
 Initial esp 	
-esp -4 		[push edbp]
+esp -4 		{[push edbp]}
 esp -4 		[mov %esp, %ebp]
 esp -8		[pushl %edi]
 esp -12 	[pushl %esi]
